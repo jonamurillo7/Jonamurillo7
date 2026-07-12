@@ -17,7 +17,7 @@ VEXION diseña software para empresas que necesitan más control operativo, traz
 
 - Sitio web: https://vexionsoftware.site
 - LinkedIn: https://www.linkedin.com/company/vexionsoftware/
-- Repositorio del sitio corporativo: https://github.com/Jonamurillo7/vexion-corporate-website
+
 
 ## Stack visible en proyectos públicos
 
